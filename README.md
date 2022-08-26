@@ -12,3 +12,8 @@ PHPBrew version: 1.27.0
 Platform: linux
 Platform version: 5.13.0-52-generic
 Platform architecture: x64
+
+NOTE:
+-----------
+This data patch will create three different attribute and two simple product.
+Products will be asigned to the 'Default Category'.
