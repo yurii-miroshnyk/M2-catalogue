@@ -15,5 +15,7 @@ Platform architecture: x64
 
 NOTE:
 -----------
+Patch placed into /app/code
+
 This data patch will create three different attribute and two simple product.
 Products will be asigned to the 'Default Category'.
